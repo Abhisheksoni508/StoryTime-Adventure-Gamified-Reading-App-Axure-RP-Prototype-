@@ -62,3 +62,41 @@ Create a `/screenshots` folder and add 5 images:
 
 Then reference them here:
 
+---
+
+## 🧠 HCI Rationale (short)
+
+- **Visibility:** page counter, streak, badge status labels  
+- **Feedback:** green/red quiz states; “Great Job!” / “Congratulations” messages  
+- **Constraints:** single-select radio groups; linear reading → quiz → results flow  
+- **Mapping:** consistent left/back arrow; “Tap to Read” placed on the card it opens  
+- **Consistency:** same button style, colours, typography across screens  
+- **Affordance (signifiers):** raised rounded buttons; shadowed cards; clear labels
+
+**Gamification:** stars, streaks, badges (Deterding; Hamari) aligned with **Self-Determination Theory** (Deci & Ryan): autonomy (story choice), competence (quiz), relatedness (share progress).
+
+---
+
+## 🔬 Research Plan (prototype-as-artifact)
+
+**Question:** Do stars/badges increase motivation vs. a non-gamified version?  
+**Design:** within-subjects (A: gamified / B: plain), counterbalanced  
+**Participants:** 10–12 children (4–12) with parental consent  
+**Measures:** time-on-task, stories completed, quiz score; short smiley-scale enjoyment + brief interview  
+**Analysis:** paired t-test (quant), thematic analysis (qual)  
+**Ethics:** consent/assent, anonymity, age-appropriate language, safe data practices
+
+---
+
+## ♿ Accessibility (in scope for future)
+
+- High-contrast button text on colour cards  
+- Optional **read-aloud narration** and larger type presets  
+- Dyslexia-friendly font option and increased line spacing  
+- Alt text for all figures in documentation
+
+---
+
+## 📁 Suggested Structure
+
+
