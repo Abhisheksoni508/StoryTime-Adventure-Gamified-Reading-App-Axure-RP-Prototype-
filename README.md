@@ -60,8 +60,6 @@ Create a `/screenshots` folder and add 5 images:
 - `quiz_feedback.png` — immediate feedback, single-select grouping  
 - `rewards.png` — badge status visibility, motivation
 
-Then reference them here:
-
 ---
 
 ## 🧠 HCI Rationale (short)
@@ -97,6 +95,26 @@ Then reference them here:
 
 ---
 
-## 📁 Suggested Structure
+---
 
+## 📚 Key References
 
+- Norman, D. A. (2013). *The Design of Everyday Things* (Rev. ed.). MIT Press.  
+- Deterding, S. et al. (2011). Defining “Gamification”. *MindTrek*.  
+- Hamari, J. et al. (2014). Does Gamification Work? *HICSS*.  
+- Deci, E. L., & Ryan, R. M. (2000). Self-Determination Theory. *Psychological Inquiry*.  
+- Read, J. C., & Bekker, M. M. (2011). Nature of Child–Computer Interaction. *BIT*.  
+- Shneiderman, B. et al. (2016). *Designing the User Interface* (6e). Pearson.
+
+---
+
+## 📄 License
+
+This repository is released under the **MIT License**. See `LICENSE` for details.
+
+---
+
+## 🙌 Acknowledgements
+
+Built in **Axure RP 10** as part of a university HCI coursework brief (Option C).  
+Thanks to peers and tutors for feedback on usability and visual polish.
