@@ -7,7 +7,6 @@ Built for an HCI coursework project to demonstrate **Don Norman’s six design p
 > Target users: **Children aged 4–12**
 
 ---
-
 ## ✨ Overview
 
 **StoryTime Adventure** turns reading into a habit through playful feedback and visible progress:
